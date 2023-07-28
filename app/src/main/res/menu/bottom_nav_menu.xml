@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/btnav_home"
+        android:title="Home"
+        android:icon="@drawable/ic_home" />
+
+    <item
+        android:id="@+id/btnav_record"
+        android:title="Record"
+        android:icon="@drawable/ic_record" />
+
+    <item
+        android:id="@+id/btnav_template"
+        android:title="Template"
+        android:icon="@drawable/ic_template" />
+
+    <item
+        android:id="@+id/btnav_budget"
+        android:title="Budget"
+        android:icon="@drawable/ic_budget" />
+
+    <item
+        android:id="@+id/btnav_category"
+        android:title="Category"
+        android:icon="@drawable/ic_category" />
+</menu>

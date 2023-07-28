@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/GroupProject/Try_Desktop/PRM392_Team-1_WalletProject/app/src/main/res/layout/activity_authenticator.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/GroupProject/Try_Desktop/PRM392_Team-1_WalletProject/app/src/main/res/layout/add_account.xml" value="0.264" />
+        <entry key="..\:/Android/GroupProject/Try_Desktop/PRM392_Team-1_WalletProject/app/src/main/res/layout/add_acount.xml" value="0.1" />
+        <entry key="..\:/Android/GroupProject/Try_Desktop/PRM392_Team-1_WalletProject/app/src/main/res/layout/edit_account.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/GroupProject/Try_Desktop/PRM392_Team-1_WalletProject/app/src/main/res/layout/fragment_change_password.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/GroupProject/Try_Desktop/PRM392_Team-1_WalletProject/app/src/main/res/layout/fragment_create_category.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/GroupProject/Try_Desktop/PRM392_Team-1_WalletProject/app/src/main/res/layout/fragment_list_budget.xml" value="0.264" />
+        <entry key="..\:/Android/GroupProject/Try_Desktop/PRM392_Team-1_WalletProject/app/src/main/res/layout/fragment_list_category.xml" value="0.24320652173913043" />
+        <entry key="..\:/Android/GroupProject/Try_Desktop/PRM392_Team-1_WalletProject/app/src/main/res/layout/fragment_list_record.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/GroupProject/Try_Desktop/PRM392_Team-1_WalletProject/app/src/main/res/layout/fragment_record_create.xml" value="0.1" />
+        <entry key="..\:/Android/GroupProject/Try_Desktop/PRM392_Team-1_WalletProject/app/src/main/res/layout/fragment_setting.xml" value="0.5304347826086957" />
+        <entry key="..\:/Android/GroupProject/Try_Desktop/PRM392_Team-1_WalletProject/app/src/main/res/layout/item_budget.xml" value="0.536" />
+        <entry key="..\:/Android/GroupProject/Try_Desktop/PRM392_Team-1_WalletProject/app/src/main/res/layout/item_category.xml" value="0.4" />
+        <entry key="..\:/GitHub/PRM392_Team-1_WalletProject/app/src/main/res/layout/fragment_list_budget.xml" value="0.3009833262077811" />
+        <entry key="..\:/GitHub/PRM392_Team-1_WalletProject/app/src/main/res/layout/fragment_list_record.xml" value="0.3009833262077811" />
+        <entry key="..\:/GitHub/PRM392_Team-1_WalletProject/app/src/main/res/layout/fragment_list_template.xml" value="0.3009833262077811" />
+        <entry key="..\:/GitHub/PRM392_Team-1_WalletProject/app/src/main/res/layout/fragment_setting.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/phuon/Documents/GitLab/PRM392_Team-1_WalletProject/app/src/main/res/drawable/background_templateadd_selectbox.xml" value="0.2645" />
+        <entry key="..\:/Users/phuon/Documents/GitLab/PRM392_Team-1_WalletProject/app/src/main/res/drawable/ic__android_24.xml" value="0.21" />
+        <entry key="..\:/Users/phuon/Documents/GitLab/PRM392_Team-1_WalletProject/app/src/main/res/drawable/ic_add.xml" value="0.207" />
+        <entry key="..\:/Users/phuon/Documents/GitLab/PRM392_Team-1_WalletProject/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.21" />
+        <entry key="..\:/Users/phuon/Documents/GitLab/PRM392_Team-1_WalletProject/app/src/main/res/drawable/ic_budget.xml" value="0.2485" />
+        <entry key="..\:/Users/phuon/Documents/GitLab/PRM392_Team-1_WalletProject/app/src/main/res/drawable/ic_category_foodanddrink.xml" value="0.204" />
+        <entry key="..\:/Users/phuon/Documents/GitLab/PRM392_Team-1_WalletProject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2565" />
+        <entry key="..\:/Users/phuon/Documents/GitLab/PRM392_Team-1_WalletProject/app/src/main/res/drawable/ic_notifications.xml" value="0.21" />
+        <entry key="..\:/Users/phuon/Documents/GitLab/PRM392_Team-1_WalletProject/app/src/main/res/drawable/ic_templatelist_add.xml" value="0.2565" />
+        <entry key="..\:/Users/phuon/Documents/GitLab/PRM392_Team-1_WalletProject/app/src/main/res/drawable/ic_templatelist_add_onclick.xml" value="0.204" />
+        <entry key="..\:/Users/phuon/Documents/GitLab/PRM392_Team-1_WalletProject/app/src/main/res/drawable/textview_border.xml" value="0.21" />
+        <entry key="..\:/Users/phuon/Documents/GitLab/PRM392_Team-1_WalletProject/app/src/main/res/layout/account_color_spinner_list.xml" value="0.21196581196581196" />
+        <entry key="..\:/Users/phuon/Documents/GitLab/PRM392_Team-1_WalletProject/app/src/main/res/layout/account_color_spinner_select.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/phuon/Documents/GitLab/PRM392_Team-1_WalletProject/app/src/main/res/layout/account_type_list.xml" value="0.21196581196581196" />
+        <entry key="..\:/Users/phuon/Documents/GitLab/PRM392_Team-1_WalletProject/app/src/main/res/layout/account_type_list_select.xml" value="0.21196581196581196" />
+        <entry key="..\:/Users/phuon/Documents/GitLab/PRM392_Team-1_WalletProject/app/src/main/res/layout/activity_main.xml" value="0.23703703703703705" />
+        <entry key="..\:/Users/phuon/Documents/GitLab/PRM392_Team-1_WalletProject/app/src/main/res/layout/add_acount.xml" value="0.259375" />
+        <entry key="..\:/Users/phuon/Documents/GitLab/PRM392_Team-1_WalletProject/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/phuon/Documents/GitLab/PRM392_Team-1_WalletProject/app/src/main/res/layout/fragment_list_budget.xml" value="0.25" />
+        <entry key="..\:/Users/phuon/Documents/GitLab/PRM392_Team-1_WalletProject/app/src/main/res/layout/fragment_list_plan.xml" value="0.259375" />
+        <entry key="..\:/Users/phuon/Documents/GitLab/PRM392_Team-1_WalletProject/app/src/main/res/layout/fragment_list_record.xml" value="0.259375" />
+        <entry key="..\:/Users/phuon/Documents/GitLab/PRM392_Team-1_WalletProject/app/src/main/res/layout/fragment_list_template.xml" value="0.264" />
+        <entry key="..\:/Users/phuon/Documents/GitLab/PRM392_Team-1_WalletProject/app/src/main/res/layout/fragment_record_create.xml" value="0.2586050724637681" />
+        <entry key="..\:/Users/phuon/Documents/GitLab/PRM392_Team-1_WalletProject/app/src/main/res/layout/fragment_setting.xml" value="0.259375" />
+        <entry key="..\:/Users/phuon/Documents/GitLab/PRM392_Team-1_WalletProject/app/src/main/res/layout/record_item.xml" value="0.2586050724637681" />
+        <entry key="..\:/Users/phuon/Documents/GitLab/PRM392_Team-1_WalletProject/app/src/main/res/layout/record_list_item.xml" value="0.2586050724637681" />
+        <entry key="..\:/Users/phuon/Documents/GitLab/PRM392_Team-1_WalletProject/app/src/main/res/layout/record_spinner_item.xml" value="0.2586050724637681" />
+        <entry key="..\:/Users/phuon/Documents/GitLab/PRM392_Team-1_WalletProject/app/src/main/res/layout/template_create.xml" value="0.1" />
+        <entry key="..\:/Users/phuon/Documents/GitLab/PRM392_Team-1_WalletProject/app/src/main/res/layout/template_dropdown_item.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/phuon/Documents/GitLab/PRM392_Team-1_WalletProject/app/src/main/res/layout/template_recyclerview.xml" value="0.4" />
+        <entry key="..\:/Users/phuon/Documents/GitLab/PRM392_Team-1_WalletProject/app/src/main/res/layout/template_view_edit.xml" value="0.4" />
+        <entry key="..\:/Users/phuon/Documents/GitLab/PRM392_Team-1_WalletProject/app/src/main/res/layout/topnav_layout.xml" value="0.25" />
+        <entry key="..\:/Users/phuon/Documents/GitLab/PRM392_Team-1_WalletProject/app/src/main/res/menu/bottom_nav_menu.xml" value="0.259375" />
+        <entry key="..\:/Users/phuon/Documents/GitLab/PRM392_Team-1_WalletProject/app/src/main/res/menu/top_nav_menu.xml" value="0.259375" />
+        <entry key="..\:/Users/phuon/Documents/GitLab/PRM392_Team-1_WalletProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2565" />
+        <entry key="..\:/Users/phuon/Documents/GitLab/PRM392_Team-1_WalletProject/app/src/main/res/mipmap-anydpi-v26/ic_template_add.xml" value="0.2565" />
+        <entry key="..\:/Users/phuon/Documents/GitLab/PRM392_Team-1_WalletProject/app/src/main/res/mipmap-anydpi-v26/ic_template_add_round.xml" value="0.2565" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.264" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

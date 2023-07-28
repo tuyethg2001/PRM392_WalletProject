@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "720808313715",
+    "project_id": "walletproject-240c8",
+    "storage_bucket": "walletproject-240c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720808313715:android:173e2e53a3659a71d9bb06",
+        "android_client_info": {
+          "package_name": "com.example.prm392_walletproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720808313715-7cmpo19lteqjcjd5jjga1h587f6e20gl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prm392_walletproject",
+            "certificate_hash": "d36b78a090e535fd2ea4c5b2113bd0630e6c090b"
+          }
+        },
+        {
+          "client_id": "720808313715-6n4kuhgbj6brqvt8gvruqlgkdgsq15pu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXrN7BSflcnoLmr_Shi1R7Y5lXiMSUF7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720808313715-6n4kuhgbj6brqvt8gvruqlgkdgsq15pu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
